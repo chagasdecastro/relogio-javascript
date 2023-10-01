@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    font-family: 'Pixelify Sans', cursive;
+    color: #fff;
+}
+
+#relogio {
+    font-size: 9rem;
+    text-align: center;
+    padding: 150px;
+}
